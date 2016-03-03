@@ -1,5 +1,5 @@
 {
-  "name": "repack",
+  "name": "react-bundler",
   "version": "1.0.0",
   "description": "Bundler for React components with separation of concerns",
   "main": "index.js",
