@@ -1,0 +1,32 @@
+{
+  "name": "repack",
+  "version": "1.0.0",
+  "description": "Bundler for React components with separation of concerns",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cz-conventional-changelog": "^1.1.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajasegar/repack.git"
+  },
+  "keywords": [
+    "react",
+    "bundler"
+  ],
+  "author": "Rajasegar Chandran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rajasegar/repack/issues"
+  },
+  "homepage": "https://github.com/rajasegar/repack#readme",
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
